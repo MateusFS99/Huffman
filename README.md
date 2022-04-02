@@ -1,4 +1,4 @@
-<h1 align="center">Huffman</h1>
+<h1 align="center">🌳 Huffman 🌳</h1>
 
 Algoritmo consiste em:
 - Um algoritmo para construção da árvore de Huffman, utilizando uma lista encadeada ordenada no processo de construção.
